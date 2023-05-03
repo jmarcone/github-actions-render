@@ -1,3 +1,3 @@
 const app = require("./app");
 
-app.listen(80, () => console.log("server started"))
+app.listen(8080, () => console.log("server started"))
